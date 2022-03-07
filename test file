@@ -16,3 +16,4 @@ Did not give [Build] last time
 Removed text requirement, checking only branch and PR setup
 Checking if canceled builds affect
 Changed vcs root monitor to only refs/pull/*
+Test on fresh project with vcs root and trigger on refs/pull/*
