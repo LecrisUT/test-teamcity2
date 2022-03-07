@@ -8,3 +8,4 @@ Add pull/* to vcs root and try Build tag
 Added wildcard on vcs root
 Added Branch filter to all still with Build tag
 Changed trigger to refs/pull/* (refs/pull/*/merge seems to be target)
+Reverse other changes, added refs/pull/* to vcs root and enabled PR checker. Not using build Tag
