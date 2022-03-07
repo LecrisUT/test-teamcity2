@@ -13,3 +13,4 @@ Enabling using [Build] tag
 Try again without vcs root and PR feature, using [Build]
 Added vcs root of refs/pull/* and 1 sec check
 Did not give [Build] last time
+Removed text requirement, checking only branch and PR setup
