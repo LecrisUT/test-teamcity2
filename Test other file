@@ -1,2 +1,3 @@
 Test with commit conflict on main
 Try to change the name to main
+It seems we cannot change the name of the default branch, however <default> should work in this case
