@@ -25,3 +25,8 @@ vcs root configuration still a mistery
 Correct format seems to be refs/(pull/*)/merge
 Changes are documented, but not triggerring builds, maybe the trigger match is against logical names?
 Diabaled PR build feature. Seems that locical names are used
+Testing with PR integration and no vcs root
+Oh my that worked
+Oh no it overrides my trigger :(
+Oh wait, that worked, I just got the regex wrong
+And now Build!!
