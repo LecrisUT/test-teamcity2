@@ -19,3 +19,4 @@ Changed vcs root monitor to only refs/pull/*
 Test on fresh project with vcs root and trigger on refs/pull/*
 Test with webhook active
 Test again with webhook deactivated and refs/(pull/*)/head in vcs root
+Still no luck
