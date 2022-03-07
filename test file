@@ -11,3 +11,4 @@ Changed trigger to refs/pull/* (refs/pull/*/merge seems to be target)
 Reverse other changes, added refs/pull/* to vcs root and enabled PR checker. Not using build Tag
 Enabling using [Build] tag
 Try again without vcs root and PR feature, using [Build]
+Added vcs root of refs/pull/* and 1 sec check
