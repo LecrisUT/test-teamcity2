@@ -1,0 +1,32 @@
+Test1
+Test with build
+Test trigger with additional vcs root branch check
+Test with [Build] in comment
+Test with pull/*
+Test with Build tag
+Add pull/* to vcs root and try Build tag
+Added wildcard on vcs root
+Added Branch filter to all still with Build tag
+Changed trigger to refs/pull/* (refs/pull/*/merge seems to be target)
+Reverse other changes, added refs/pull/* to vcs root and enabled PR checker. Not using build Tag
+Enabling using [Build] tag
+Try again without vcs root and PR feature, using [Build]
+Added vcs root of refs/pull/* and 1 sec check
+Did not give [Build] last time
+Removed text requirement, checking only branch and PR setup
+Checking if canceled builds affect
+Changed vcs root monitor to only refs/pull/*
+Test on fresh project with vcs root and trigger on refs/pull/*
+Test with webhook active
+Test again with webhook deactivated and refs/(pull/*)/head in vcs root
+Still no luck
+Yet another commit
+vcs root configuration still a mistery
+Correct format seems to be refs/(pull/*)/merge
+Changes are documented, but not triggerring builds, maybe the trigger match is against logical names?
+Diabaled PR build feature. Seems that locical names are used
+Testing with PR integration and no vcs root
+Oh my that worked
+Oh no it overrides my trigger :(
+Oh wait, that worked, I just got the regex wrong
+And now Build!!
