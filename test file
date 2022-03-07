@@ -6,3 +6,4 @@ Test with pull/*
 Test with Build tag
 Add pull/* to vcs root and try Build tag
 Added wildcard on vcs root
+Added Branch filter to all still with Build tag
