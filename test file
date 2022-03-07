@@ -2,3 +2,4 @@ Test1
 Test with build
 Test trigger with additional vcs root branch check
 Test with [Build] in comment
+Test with pull/*
