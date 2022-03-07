@@ -4,3 +4,4 @@ Test trigger with additional vcs root branch check
 Test with [Build] in comment
 Test with pull/*
 Test with Build tag
+Add pull/* to vcs root and try Build tag
