@@ -1,2 +1,7 @@
 Trigger is picking on logical name, not actual branch so use `pull/*` syntax
 This should trigger
+Test with commit conflict on main
+Try to change the name to main
+It seems we cannot change the name of the default branch, however <default> should work in this case
+Checking <default> and webhook
+This should not trigger
