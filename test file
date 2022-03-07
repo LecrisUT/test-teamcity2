@@ -21,3 +21,4 @@ Test with webhook active
 Test again with webhook deactivated and refs/(pull/*)/head in vcs root
 Still no luck
 Yet another commit
+vcs root configuration still a mistery
